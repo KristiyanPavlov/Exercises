@@ -10,6 +10,7 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
+            int test = 0;
             Console.WriteLine("Hello world!");
         }
     }
